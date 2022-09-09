@@ -7,4 +7,4 @@
 4. GitCli
 
 Create a new enviroment
-create files & Docker files
+create files & Docker files and deploy in heroku
